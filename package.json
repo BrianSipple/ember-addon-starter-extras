@@ -1,0 +1,14 @@
+{
+  "name": "<<PACKAGE_NAME>>",
+  "version": "0.0.0",
+  "description": "<<PACKAGE_DESCRIPTION>>",
+  "license": "MIT",
+  "author": {
+    "name": "Brian Sipple <@Brian_Sipple>",
+    "url": "https://github.com/BrianSipple"
+  },
+  "repository": "https://github.com/BrianSipple/<<PACKAGE_NAME>>.git",
+  "bugs": {
+    "url": "https://github.com/BrianSipple/<<PACKAGE_NAME>>.git/issues"
+  }
+}

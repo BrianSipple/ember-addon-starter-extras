@@ -1,5 +1,7 @@
 # <<PACKAGE_NAME>>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BrianSipple/ember-addon-starter-extras.svg)](https://greenkeeper.io/)
+
 _<<ADDON_DESCRIPTION>>_
 
 [![Latest NPM release][npm-badge]][npm-badge-url]
